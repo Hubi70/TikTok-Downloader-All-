@@ -86,9 +86,3 @@ MIT License — free to use, modify, and share.
 
 Built by Hubi70
 
-```
-
----
-
-✅ You can now paste this directly into your GitHub repo as `README.md`. Let me know if you want me to generate the `LICENSE` file as well.
-```
